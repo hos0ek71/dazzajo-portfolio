@@ -12,15 +12,15 @@
 
 ## 대표 화면
 
-| AI 견적 대화 | 추천 견적 확인 |
+| AI 견적 대화 | 부품 호환성 확인 |
 | --- | --- |
-| ![AI 추천 대화 화면](docs/portfolio/screenshots/01-ai-build-chat.jpg) | ![추천 부품을 담은 견적 화면](docs/portfolio/screenshots/02-self-quote.jpg) |
-| 상담 중 부품 상태 확인 | 예산을 낮춰 견적 다시 확인 |
-| ![상담과 견적 문맥 화면](docs/portfolio/screenshots/03-support-and-quote.jpg) | ![더 저렴한 부품으로 다시 확인하는 화면](docs/portfolio/screenshots/04-budget-recheck.jpg) |
+| ![AI 추천 대화 화면] | ![추천 부품을 담은 견적 화면]|
+| 에이전트 진단 | AS 상담 |
+| ![상담과 견적 문맥 화면]() | ![더 저렴한 부품으로 다시 확인하는 화면]() |
 
 ### 서비스 화면 흐름
 
-![AI 추천에서 견적과 상담까지의 대표 화면 흐름](docs/portfolio/screenshots/service-flow.gif)
+![AI 추천에서 견적과 상담까지의 대표 화면 흐름]()
 
 *저장소의 실제 제품 화면 캡처 4장을 순서대로 보여주는 GIF입니다.*
 
