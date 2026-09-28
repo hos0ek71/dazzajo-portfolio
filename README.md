@@ -15,15 +15,15 @@
 <table>
   <tbody>
     <tr>
-      <td><img src="docs/portfolio/screenshots/current-ui/01-ai-recommendation.png" alt="AI 추천 견적 화면"></td>
-      <td><img src="docs/portfolio/screenshots/current-ui/02-gpu-performance-price-delta.png" alt="GPU 성능과 견적 가격 비교 화면"></td>
+      <td><img src="docs/portfolio/screenshots/current-ui/01-ai-recommendation.png" alt="AI 추천 견적 화면"><br>AI가 사용 목적과 예산에 맞는 조립 PC 견적을 추천합니다.</td>
+      <td><img src="docs/portfolio/screenshots/current-ui/02-gpu-performance-price-delta.png" alt="GPU 성능과 견적 가격 비교 화면"><br>GPU 변경에 따른 예상 FPS와 견적 가격 차이를 비교합니다.</td>
     </tr>
     <tr>
-      <td><img src="docs/portfolio/screenshots/current-ui/04-compatible-case-replacement.png" alt="호환 부품으로 교체한 견적 화면"></td>
-      <td><img src="docs/portfolio/screenshots/current-ui/05-quote-comparison.png" alt="견적 비교 화면"></td>
+      <td><img src="docs/portfolio/screenshots/current-ui/04-compatible-case-replacement.png" alt="호환 부품으로 교체한 견적 화면"><br>호환 경고가 난 케이스를 대체 부품으로 바꾸고 다시 검증합니다.</td>
+      <td><img src="docs/portfolio/screenshots/current-ui/05-quote-comparison.png" alt="견적 비교 화면"><br>여러 견적의 가격과 핵심 부품 구성을 비교합니다.</td>
     </tr>
     <tr>
-      <td colspan="2"><img src="docs/portfolio/screenshots/current-ui/06-technician-proposals.png" alt="조립 기사 제안 화면"></td>
+      <td colspan="2"><img src="docs/portfolio/screenshots/current-ui/06-technician-proposals.png" alt="조립 기사 제안 화면"><br>기사별 조립 제안과 가격을 비교해 서비스를 선택합니다.</td>
     </tr>
   </tbody>
 </table>
